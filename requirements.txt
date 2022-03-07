@@ -4,4 +4,4 @@ pandas
 matplotlib
 tensorflow
 seaborn
-sklearnclear
+sklearn
